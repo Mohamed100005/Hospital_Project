@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15440048-6E0F-439F-A1B6-FE42E95338EE}|Hospital_Project\\Hospital_Project.csproj|f:\\learning\\net core\\day ten\\hospital_system\\hospital_project\\hospital_project\\controllers\\bookappointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15440048-6E0F-439F-A1B6-FE42E95338EE}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\controllers\\bookappointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15440048-6E0F-439F-A1B6-FE42E95338EE}|Hospital_Project\\Hospital_Project.csproj|f:\\learning\\net core\\day ten\\hospital_system\\hospital_project\\hospital_project\\controllers\\appointmentslistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15440048-6E0F-439F-A1B6-FE42E95338EE}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\controllers\\appointmentslistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15440048-6E0F-439F-A1B6-FE42E95338EE}|Hospital_Project\\Hospital_Project.csproj|f:\\learning\\net core\\day ten\\hospital_system\\hospital_project\\hospital_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15440048-6E0F-439F-A1B6-FE42E95338EE}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15440048-6E0F-439F-A1B6-FE42E95338EE}|Hospital_Project\\Hospital_Project.csproj|f:\\learning\\net core\\day ten\\hospital_system\\hospital_project\\hospital_project\\views\\appointmentslist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15440048-6E0F-439F-A1B6-FE42E95338EE}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\views\\appointmentslist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15440048-6E0F-439F-A1B6-FE42E95338EE}|Hospital_Project\\Hospital_Project.csproj|f:\\learning\\net core\\day ten\\hospital_system\\hospital_project\\hospital_project\\views\\bookappointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15440048-6E0F-439F-A1B6-FE42E95338EE}|Hospital_Project\\Hospital_Project.csproj|solutionrelative:hospital_project\\views\\bookappointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookAppointmentController.cs",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\Hospital_Project\\Controllers\\BookAppointmentController.cs",
+              "RelativeDocumentMoniker": "Hospital_Project\\Controllers\\BookAppointmentController.cs",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\Hospital_Project\\Controllers\\BookAppointmentController.cs",
+              "RelativeToolTip": "Hospital_Project\\Controllers\\BookAppointmentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:52:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentsListController.cs",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\Hospital_Project\\Controllers\\AppointmentsListController.cs",
+              "RelativeDocumentMoniker": "Hospital_Project\\Controllers\\AppointmentsListController.cs",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\Hospital_Project\\Controllers\\AppointmentsListController.cs",
+              "RelativeToolTip": "Hospital_Project\\Controllers\\AppointmentsListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:52:51.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\Hospital_Project\\Views\\BookAppointment\\Details.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Project\\Views\\BookAppointment\\Details.cshtml",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\Hospital_Project\\Views\\BookAppointment\\Details.cshtml",
+              "RelativeToolTip": "Hospital_Project\\Views\\BookAppointment\\Details.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:51:52.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\Hospital_Project\\Views\\AppointmentsList\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hospital_Project\\Views\\AppointmentsList\\Index.cshtml",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\Hospital_Project\\Views\\AppointmentsList\\Index.cshtml",
+              "RelativeToolTip": "Hospital_Project\\Views\\AppointmentsList\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:51:39.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\Hospital_Project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Hospital_Project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Ten\\Hospital_System\\Hospital_Project\\Hospital_Project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Hospital_Project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:44:39.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
